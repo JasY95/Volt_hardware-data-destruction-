@@ -8,3 +8,5 @@ This is a USB based protocol, and relies on the presence of a USB data input, in
 If the conditions are not met, then this circuit hijacks the SATA connection, causes mass corruption and then discharges the full capacity of the attached capacitor to permanently destroy the controller. 
 
 This is intended for desktop implementation only. 
+
+BE ACCUTELY AWARE: This implementation presents a minor fire risk
